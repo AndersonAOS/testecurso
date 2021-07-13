@@ -1,5 +1,5 @@
 # Treinamento de git Udemy
 
-![gitimg.png](teste de texto)
+![](./gitimg.png)
 
-este repositório faz parte do autotreinamento de git
+este repositÃ³rio faz parte do autotreinamento de git
