@@ -1,14 +1,3 @@
-dnsfshdkfd
-fsd
-f
-sdf
-sd
-f
-sdf
-ds
-f
-ds
-fsd
-f
-wdf
-s
+Altereção do documento via github 
+browser
+testando como se comporta quanto a origem das alterções
